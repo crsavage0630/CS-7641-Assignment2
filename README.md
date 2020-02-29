@@ -8,7 +8,9 @@ Clone the repo
 pip install -r requirements.txt
 
 To run the neural network 
+
 python3 neural_net.py    
 
 To run the optimization problems
+
 python3 toy_sets.py
